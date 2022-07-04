@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Read</string>
+    <string name="slogan">Read more</string>
+    <string name="load_error">网络不见了~</string>
+    <string name="save">需要保存当前图片嘛？</string>
+    <string name="gank_load_error">代码家的服务器不见啦</string>
+    <string name="headline">大公司头条</string>
+    <string name="feed_0">好奇心研究所</string>
+    <string name="github">GitHub今日热门</string>
+    <string name="about_me">关于</string>
+    <string name="one_word"></string>
+   <string name="app_info">Read</string>
+    <string name="desc"> * 知乎，好奇心日报</string>
+    <string name="desc_api_zhihu"> * 知乎日报 Api 取自 ZhihuDailyPurify</string>
+    <string name="desc_api_gank"> </string>
+    <string name="desc_api_daily"> * 好奇心日报 Api取自github</string>
+    <string name="desc_dev"> * 整体开发基于 MVP+RxJava+Retrofit</string>
+    <string name="app_dev">开发</string>
+    <string name="desc_dev_1"> * 通过 Retrofit 实现了无网缓存</string>
+    <string name="desc_dev_2"> * 基于 MVP 模式对 Activity 和 Fragment 封装了两个基类</string>
+    <string name="desc_dev_3"> * 运用RecyclerView加载了多种复杂布局</string>
+    <string name="splash_info">Read More</string>
+    <string name="api_info">以上api只用做学习用途</string>
+    <string name="s_frag_register_nickname">用户昵称</string>
+    <string name="s_frag_register_phone_num">手机号码</string>
+    <string name="s_frag_register_password_check">确认密码</string>
+    <string name="s_frag_register_protocol">同意《HZF协议》</string>
+    <string name="s_frag_register_submit">完成注册</string>
+
+    <string name="s_frag_login_register_password">密码</string>
+
+    <string name="s_frag_login_login">登录</string>
+    <string name="s_frag_login_nickname_or_phone_num">昵称/手机号码</string>
+
+    <string name="s_activity_main_login">登录</string>
+    <string name="s_activity_main_login_success">登录成功</string>
+    <string name="s_activity_main_login_failure">登录失败</string>
+    <string name="s_activity_main_register">注册</string>
+    <string name="s_activity_main_register_input_nickname">注册失败，未输入用户昵称！</string>
+    <string name="s_activity_main_register_input_phone_num">注册失败，未输入手机号码！</string>
+    <string name="s_activity_main_register_input_password">注册失败，未输入密码！</string>
+    <string name="s_activity_main_register_input_confirm_password">注册失败，未输入确认密码！</string>
+    <string name="s_activity_main_register_input_password_wrong">注册失败，密码不一致！</string>
+    <string name="s_activity_main_register_input_protocol">注册失败，未同意协议！</string>
+    <string name="s_activity_main_register_success">注册成功</string>
+    <string name="s_activity_main_register_failure">注册失败</string>
+    <string name="s_url_login">http://106.52.241.64:8080/LoginRegisterDemo/LoginServlet</string>
+    <string name="s_url_register">http://106.52.241.64:8080/LoginRegisterDemo/RegisterServlet</string>
+</resources>
